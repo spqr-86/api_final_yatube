@@ -4,7 +4,6 @@ from rest_framework import viewsets, filters
 from rest_framework.permissions import (IsAuthenticatedOrReadOnly,
                                         IsAuthenticated)
 
-
 from .models import Post, Follow, Group
 from .serializers import (PostSerializer, CommentSerializer,
                           FollowSerializer, GroupSerializer)
