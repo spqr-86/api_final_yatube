@@ -1,5 +1,4 @@
-# api_final
-api final
+# api_final_yatube
 # Описание сервиса
 Проект Yatube - cоциальную сеть для публикации личных дневников.
 
